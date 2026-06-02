@@ -61,7 +61,7 @@ Phá vỡ sự hiển nhiên → Lịch sử (vấn đề không tầm thường
 
 ---
 
-## C. TỪ ĐIỂN DỊCH CHỮ → HÌNH (hợp nhất từ 2 video)
+## C. TỪ ĐIỂN DỊCH CHỮ → HÌNH (hợp nhất từ các video)
 
 Khi viết mỗi câu, tra loại câu để biết dựng visual gì:
 
@@ -81,6 +81,15 @@ Khi viết mỗi câu, tra loại câu để biết dựng visual gì:
 | Công thức/kết quả là chủ đề | **Công thức lớn chính giữa màn** |
 | Foreshadow / lịch sử bằng lời | Hình **giữ tĩnh** để lời "ngấm" |
 | Kết chương | Cắt **title-card** chương sau khi tò mò đỉnh điểm |
+| **Khái niệm vô hình** (hàm số, AI, thuật toán) | **Chế một vật ẩn dụ nhất quán** (hộp xám = hàm số) rồi tái dùng |
+| **"Phân phối / nhiều khả năng"** | **Bar chart** (danh sách + thanh %) |
+| **"Khổng lồ / hàng tỉ"** | **Lưới ô số dày** + kính lúp soi 1 phần tử |
+| **Con số không tưởng** (thời gian/phép tính) | **Thang bội số xếp dọc** (Minute → 100,000,000 Years) |
+| **"Nhiều ví dụ / lặp lại"** | **Lưới ô song song** cùng cấu trúc |
+| **Giới thiệu khái niệm khó** | **Phép loại suy đời thường** (kịch bản phim bị xé) trước khi định nghĩa |
+| **Bản chất phức tạp/khó hiểu** | Kết **trung thực**: thừa nhận "emergent, khó biết vì sao" |
+
+> **Mẹo cho chủ đề TRỪU TƯỢNG (V5):** áp dụng "hộp đen mở dần" — mở đầu để khái niệm là 1 vật đặc, mỗi chương bóc thêm 1 lớp bên trong. Tránh ngợp.
 
 ---
 
@@ -96,18 +105,16 @@ Khi viết mỗi câu, tra loại câu để biết dựng visual gì:
 
 ## E. BẢNG SO SÁNH NHANH CÁC VIDEO THAM CHIẾU
 
-| Tiêu chí | V1 Hình học | V2 Âm nhân âm | V4 Vectors (3B1B) |
-|---|---|---|---|
-| Ngôn ngữ | Tiếng Việt | Tiếng Việt | **Tiếng Anh** |
-| Mạch kể | Xây dựng tuần tự | Tại sao / phản biện | Xây dựng + **nhiều góc nhìn → hợp nhất** |
-| Nền | Đen sạch | Đen + grain | Đen + **grid xanh/trục trắng** |
-| Màu | Đơn sắc | Đơn sắc | **Màu gán theo đối tượng** |
-| Nhân vật | Không | Không | **Mascot Pi (persona)** |
-| Trung tâm | Hình vẽ hình học | Công thức/chữ toán | Mũi tên màu trên grid |
-| Nhãn chương góc trái | Có | Không | Tiêu đề serif giữa-trên |
-| Lịch sử | Bằng lời | Timeline + chân dung | (Quote Weyl mở đầu) |
-| Mở đầu (hook) | Câu hỏi cảm xúc | Phá vỡ hiển nhiên | **Quote triết lý** |
-| Nhịp đọc | ~185 từ/phút | ~185 | **~150-160 (chậm)** |
-| Mục tiêu người xem | "Hiểu hệ thống" | "Hiểu vì sao + tư duy chứng minh" | "Hiểu trực giác hình học" |
+| Tiêu chí | V1 Hình học | V2 Âm nhân âm | V4 Vectors (3B1B) | V5 LLM (3B1B) |
+|---|---|---|---|---|
+| Ngôn ngữ | Tiếng Việt | Tiếng Việt | **Tiếng Anh** | **Tiếng Anh** |
+| Mạch kể | Xây dựng tuần tự | Tại sao / phản biện | Nhiều góc nhìn → hợp nhất | **Hộp đen → mở dần từng lớp** |
+| Nền | Đen sạch | Đen + grain | Đen + grid xanh | Đen tuyền |
+| Màu | Đơn sắc | Đơn sắc | Màu theo đối tượng | Màu theo vai trò (input/highlight) |
+| Trung tâm | Hình vẽ hình học | Công thức/chữ | Mũi tên màu trên grid | **Vật ẩn dụ (hộp xám) + văn bản** |
+| Chủ đề | Cụ thể (hình học) | Cụ thể (số) | Cụ thể (vector) | **Trừu tượng (AI/thuật toán)** |
+| Mở đầu (hook) | Câu hỏi cảm xúc | Phá vỡ hiển nhiên | Quote triết lý | **Phép loại suy đời thường** |
+| Nhịp đọc | ~185 từ/phút | ~185 | ~150-160 | **~150-160** |
+| Kỹ thuật đặc sản | Một-đối-tượng-biến-thiên | Timeline + steelman | Màu = ngôn ngữ | **Thang bội số, bar chart, lưới số, hộp đen mở dần** |
 
 > `03_randomness-shape` = kịch bản gốc tự viết (Khuôn 2), không có trong bảng vì chưa quay.

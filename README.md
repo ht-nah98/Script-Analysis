@@ -32,9 +32,11 @@ Analysis-Frame/
 | 02 | Tại Sao Âm Nhân Âm Bằng Dương | Chứng minh 1 quy tắc | Nền đen + **film grain**, công thức là trung tâm, ẩn dụ vẽ tay (hộp NỢ) | ✅ Đã phân tích đầy đủ |
 | 03 | Why Does Randomness Always Create This Shape? | **Kịch bản GỐC của kênh** (phân phối chuẩn / CLT) | Áp dụng Khuôn 2 + DNA chung, đề xuất film grain | ✍️ Script + shot-by-shot (chưa quay) |
 | 04 | Vectors — Chapter 1, Essence of Linear Algebra (3Blue1Brown) | Khái niệm vector (tiếng Anh) | **Màu gán theo đối tượng + mascot Pi + grid xanh/trục trắng** | ✅ Đã phân tích đầy đủ |
+| 05 | Large Language Models for the Curious Beginner (3Blue1Brown) | LLM/Transformer — **chủ đề trừu tượng** (tiếng Anh) | **Vật ẩn dụ (hộp xám) + bar chart + lưới số + thang bội số + hộp đen mở dần** | ✅ Đã phân tích đầy đủ (toàn bộ ~8 phút, 477 frame) |
 
 > ⚠️ Video 03 là **bản nháp tự viết** (không phải tham chiếu) — file `videos/03_randomness-shape/analysis/SCRIPT_VA_SHOT_BY_SHOT.md`. Không có frame vì chưa sản xuất.
 > 🎨 Video 04 (3Blue1Brown) mở ra **trường phái visual thứ hai (có màu)** — xem mục A2 trong `docs/CONG_THUC_CHUNG.md`.
+> 🧠 Video 05 (3Blue1Brown) dạy cách **visual hóa chủ đề TRỪU TƯỢNG** (AI/thuật toán) — chế vật ẩn dụ, thang bội số, hộp đen mở dần.
 
 ## Quy trình chuẩn cho một video mới
 
