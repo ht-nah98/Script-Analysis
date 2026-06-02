@@ -1,6 +1,4 @@
-# Analysis-Frame — Hệ thống phân tích Video Giáo Dục để xây kênh
-
-> **Mục tiêu tối thượng:** học cách các video giáo dục biến **từng câu script → một visual cụ thể**, rút ra công thức để tự sản xuất video cho kênh. Khi viết script mới, mỗi câu phải hình dung được visual sẽ diễn ra.
+# Analysis-Frame
 
 ## Cấu trúc thư mục
 
