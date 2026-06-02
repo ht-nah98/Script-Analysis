@@ -1,0 +1,21 @@
+# Frame ảnh trích xuất — KHÔNG đẩy lên Git (tái tạo được bằng tools/extract_frames.py).
+# Manifest CSV vẫn được giữ lại (xem ngoại lệ bên dưới) để biết frame↔script.
+videos/**/frames/*.jpg
+videos/**/frames/*.jpeg
+videos/**/frames/*.png
+
+# Video gốc (nếu lỡ copy vào) — quá nặng cho Git.
+*.mp4
+*.mov
+*.mkv
+
+# State/cache do công cụ tạo ra.
+.omc/
+.claude/
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

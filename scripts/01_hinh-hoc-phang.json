@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0, "end": 34, "name": "Mở đầu",
+    "text": "Chào mọi người. Ở đây có ai dành một tình cảm đặc biệt cho hình học không? Hình học từ lâu đã là một phần quan trọng trong toán học, không chỉ vì các công thức mà còn bởi cách các ý tưởng liên kết chặt chẽ với nhau. Từ những khái niệm rất cơ bản, người ta có thể xây dựng nên cả một hệ thống định lý phong phú và sâu sắc. Điều thú vị của hình học nằm ở quá trình khám phá. Trong video này, chúng ta sẽ lần lượt đi qua những nền tảng quan trọng nhất của hình học phẳng."
+  },
+  {
+    "start": 34, "end": 89, "name": "Hai vật liệu gốc: Điểm và đường thẳng",
+    "text": "Hình học phẳng bắt đầu chỉ với hai thứ: điểm và đường thẳng. Điểm là một vị trí, không kích thước. Đường thẳng là tập hợp vô số điểm thẳng hàng, kéo dài vô tận. Nguyên tắc đầu tiên: Qua hai điểm phân biệt, có đúng một đường thẳng. Từ đường thẳng cắt ra: Tia (nửa đường thẳng) và Đoạn thẳng (phần bị chặn giữa hai điểm). Bốn yếu tố cơ bản: điểm, đường thẳng, tia, đoạn thẳng."
+  },
+  {
+    "start": 89, "end": 160, "name": "Góc sinh ra khi hai tia gặp nhau",
+    "text": "Lấy hai tia chung gốc, bạn được một góc. Điểm gốc là đỉnh, hai tia là cạnh. Đơn vị đo là độ. Vòng tròn đầy 360 độ, nửa vòng 180, 1/4 vòng 90. Người Babylon chọn 360 vì chia hết cho nhiều số. Phân loại: góc nhọn (<90), góc vuông (=90), góc tù (90-180), góc bẹt (180). Góc vuông đặc biệt nhất - tiêu chuẩn cho vuông góc, xuất hiện từ Pytago đến hệ tọa độ Descartes."
+  },
+  {
+    "start": 160, "end": 220, "name": "Khi hai đường thẳng cắt nhau",
+    "text": "Hai đường thẳng cắt nhau tạo ra bốn góc, quan hệ theo hai kiểu. Góc đối đỉnh: hai góc đối diện luôn bằng nhau (như hai lưỡi kéo mở ra). Góc kề bù: hai góc kề nhau cộng lại 180 độ. Biết một góc là biết cả ba góc còn lại. Khi bốn góc bằng nhau (=90), hai đường vuông góc - xuất hiện trong hình chữ nhật, hình vuông, hệ tọa độ."
+  },
+  {
+    "start": 220, "end": 297, "name": "Một đường cắt hai đường song song",
+    "text": "Ba đường: hai đường và đường thứ ba cắt cả hai, tạo 8 góc. Góc đồng vị, góc so le trong. Bình thường không có quan hệ gì. Nhưng khi hai đường được cắt là song song: góc đồng vị bằng nhau, góc so le trong bằng nhau. Đây là giả định gốc của hình học cổ điển. Tiên đề song song Euclid: Qua một điểm ngoài đường thẳng, có đúng một đường song song. Nổi tiếng vì làm đau đầu các nhà toán học 2000 năm, dẫn đến hình học phi Euclid."
+  },
+  {
+    "start": 297, "end": 300, "name": "Tam giác và tổng ba góc",
+    "text": "Từ những đường thẳng và góc, ta bước sang hình đầu tiên có miền trong, đó là tam giác..."
+  }
+]

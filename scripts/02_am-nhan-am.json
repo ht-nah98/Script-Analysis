@@ -1,0 +1,18 @@
+[
+  {
+    "start": 0, "end": 54, "name": "Mở đầu",
+    "text": "Chào các bạn. Hôm nay chúng ta lại tiếp tục với một điều tưởng chừng rất hiển nhiên: Âm nhân âm bằng dương. Chắc chắn bạn biết nó đúng mà không cần nghĩ. Nhưng có thể bạn chưa từng dừng lại để hỏi: Tại sao lại như vậy? Hỏi xung quanh bạn sẽ thấy đủ kiểu trả lời. Có người bảo 'quy ước thế thôi'. Có người vẽ ra hình ảnh nợ nần, tài sản. Có người nói 'đi lùi rồi quay đầu thì lại đi tới'. Nhưng câu hỏi thật sự: những cách đó là chứng minh, hay chỉ giúp bạn dễ nhớ? Hôm nay mình muốn làm rõ: Âm nhân âm bằng dương không phải quy ước ai đó đặt ra cho có. Nó là kết quả tất yếu khi bạn muốn số âm hoạt động như số bình thường."
+  },
+  {
+    "start": 54, "end": 131, "name": "Phần 1: Số âm từng bị coi là vô lý",
+    "text": "Số âm không phải lúc nào cũng được coi là số. Việc bạn thấy nó tự nhiên hôm nay phần lớn vì được dạy thế từ bé. Người Hy Lạp cổ nghĩ về toán qua hình học mà độ dài hay diện tích thì không thể âm. Diophantus thế kỷ 3, khi gặp phương trình có nghiệm âm thì coi là vô lý và bỏ qua. Phải đến thế kỷ 7 ở Ấn Độ, Brahmagupta mới viết rõ quy tắc nhân chia với tài sản và nợ - trong đó có 'nợ nhân nợ ra tài sản'. Nhưng ông giải thích bằng so sánh nợ với tài sản chứ chưa chứng minh kiểu toán hiện đại. Ngay cả châu Âu thời Phục Hưng vẫn nghi ngờ số âm. Cardano thế kỷ 16 gọi chúng là 'số giả tạo'. Đến thế kỷ 18 vẫn có nhà toán học Anh như Francis Maseres và William Frend cho rằng số âm là vô nghĩa. Nếu quy tắc này hiển nhiên đến mức không cần chứng minh, người ta đã không mất hơn 1000 năm mới chấp nhận được số âm."
+  },
+  {
+    "start": 131, "end": 248, "name": "Phần 2: Các cách giải thích trực quan và giới hạn của chúng",
+    "text": "Có mấy cách giải thích quen thuộc. Cách 1 - câu chuyện về nợ: Nếu bạn nợ 3 triệu, đó là -3 triệu. Nếu ai đó lấy đi cái nợ đó (trừ đi -3 triệu) thì bạn giàu lên 3 triệu. Vậy trừ một số âm bằng cộng một số dương. Nghe xuôi với phép trừ, nhưng áp dụng cho phép nhân thì gượng - 'lấy đi cái nợ nhiều lần' phải dựa vào cảm giác để chấp nhận. Cách 2 - dựa vào dãy số: 3x(-2)=-6, 2x(-2)=-4, 1x(-2)=-2, 0x(-2)=0, mỗi bước tăng thêm 2. Vậy -1x(-2) phải bằng 2. Nhưng nó dựa vào giả thiết 'quy luật phải tiếp tục' - mà tại sao phải tiếp tục thì bản thân quy luật không trả lời được. Cách 3 - hình ảnh quay đầu trên trục số: nhân số âm như xoay 180 độ, xoay hai lần quay về chiều cũ. Ổn, nhất là khi học số phức, nhưng với số thực vẫn là minh họa, không phải chứng minh. Cả ba cách khiến bạn cảm thấy hợp lý. Nhưng cảm thấy đúng không phải là chứng minh toán học."
+  },
+  {
+    "start": 248, "end": 300, "name": "Phần 3: Chứng minh thật sự",
+    "text": "Bây giờ chúng ta đi tới phần đó. Mình sẽ chứng minh (-a) x (-b) = a x b với a, b là số dương bất kỳ. Cần bạn đồng ý vài điều cơ bản (đã dùng từ tiểu học): Điều 1 - Tính chất phân phối: a x (b + c) = a x b + a x c. Điều 2 - Số đối: mỗi số có một số đối, a + (-a) = 0, đây là định nghĩa số âm. Điều 3 - Phần tử 0 trong phép cộng: 0 + a = a. Ba điều này cùng các quy luật quen thuộc nằm trong khái niệm 'Vành'. Bạn không cần nhớ tên, chỉ cần đồng ý đây là mấy quy tắc cơ bản đã dùng quen."
+  }
+]
