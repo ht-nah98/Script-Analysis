@@ -18,11 +18,15 @@ Analysis-Frame/
     │   ├── frames/              ← 300 frame jpg (1fps) + manifest.csv
     │   └── analysis/
     │       ├── PHAN_TICH_SAU.md          ← DNA visual, kiến trúc kể chuyện, công thức
-    │       └── BOC_TACH_SHOT_BY_SHOT.md  ← từng câu → hình, từ điển dịch chữ→hình
-    └── 02_am-nhan-am/
-        ├── frames/
-        └── analysis/            ← (sẽ thêm khi phân tích)
+    │       ├── BOC_TACH_SHOT_BY_SHOT.md  ← từng câu → hình, từ điển dịch chữ→hình
+    │       └── RENDER_SPEC_boc-tach.md   ← đặc tả render: tọa độ, màu hex, timing, ASCII
+    └── 02_am-nhan-am/ ...
 ```
+
+### 3 tầng tài liệu phân tích (mỗi video)
+1. **`PHAN_TICH_SAU.md`** — DNA visual + kiến trúc kể chuyện (tầng *chiến lược*).
+2. **`BOC_TACH_SHOT_BY_SHOT.md`** — từng câu script ↔ visual ↔ ý đồ (tầng *kịch bản phân cảnh*).
+3. **`RENDER_SPEC_boc-tach.md`** — tọa độ, mã màu hex, timing, storyboard ASCII (tầng *đặc tả render*, để dựng lại bằng Manim). Có cho V1/V2/V4/V5; V3 dùng `RENDER_SPEC_manim.md` (kịch bản gốc).
 
 ## Danh sách video tham chiếu
 
