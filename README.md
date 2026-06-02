@@ -31,8 +31,10 @@ Analysis-Frame/
 | 01 | Hình Học Phẳng — Vẻ Đẹp Thuần Túy Của Logic | Hệ thống hóa hình học phẳng | Nền đen sạch, nét trắng, glow, nhãn chương | ✅ Đã phân tích đầy đủ |
 | 02 | Tại Sao Âm Nhân Âm Bằng Dương | Chứng minh 1 quy tắc | Nền đen + **film grain**, công thức là trung tâm, ẩn dụ vẽ tay (hộp NỢ) | ✅ Đã phân tích đầy đủ |
 | 03 | Why Does Randomness Always Create This Shape? | **Kịch bản GỐC của kênh** (phân phối chuẩn / CLT) | Áp dụng Khuôn 2 + DNA chung, đề xuất film grain | ✍️ Script + shot-by-shot (chưa quay) |
+| 04 | Vectors — Chapter 1, Essence of Linear Algebra (3Blue1Brown) | Khái niệm vector (tiếng Anh) | **Màu gán theo đối tượng + mascot Pi + grid xanh/trục trắng** | ✅ Đã phân tích đầy đủ |
 
 > ⚠️ Video 03 là **bản nháp tự viết** (không phải tham chiếu) — file `videos/03_randomness-shape/analysis/SCRIPT_VA_SHOT_BY_SHOT.md`. Không có frame vì chưa sản xuất.
+> 🎨 Video 04 (3Blue1Brown) mở ra **trường phái visual thứ hai (có màu)** — xem mục A2 trong `docs/CONG_THUC_CHUNG.md`.
 
 ## Quy trình chuẩn cho một video mới
 

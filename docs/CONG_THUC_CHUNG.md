@@ -1,7 +1,7 @@
 # Công thức chung — chắt lọc từ các video tham chiếu
 
 > Cập nhật dần khi phân tích thêm video. Đây là tài liệu **dùng khi viết script mới cho kênh**.
-> Hiện dựa trên 2 video: `01_hinh-hoc-phang` (mạch xây dựng), `02_am-nhan-am` (mạch tại-sao/phản biện).
+> Hiện dựa trên 3 video tham chiếu: `01_hinh-hoc-phang` (mạch xây dựng, đơn sắc), `02_am-nhan-am` (mạch tại-sao/phản biện, grain), `04_vectors` (3Blue1Brown — màu + mascot + grid, tiếng Anh). (`03_randomness-shape` là kịch bản gốc tự viết.)
 
 ---
 
@@ -20,6 +20,23 @@
 
 ---
 
+## A2. HAI TRƯỜNG PHÁI VISUAL (chọn 1 cho kênh)
+
+Sau khi có V4 (3Blue1Brown), thấy rõ 2 trường phái trong cùng "họ nền đen":
+
+| | Trường phái ĐƠN SẮC (V1, V2, V3) | Trường phái CÓ MÀU (V4 — 3B1B) |
+|---|---|---|
+| Màu | Trắng trên đen, 1 tông; nhấn bằng glow/xám | **Màu gán cho từng đối tượng** (v⃗ vàng, w⃗ hồng), ký hiệu khớp màu hình |
+| Nhân vật | Không | **Mascot** (Pi) tạo "giọng", persona |
+| Nền | Đen sạch (V2 thêm grain) | Đen + **grid xanh/trục trắng** làm sân khấu thường trực |
+| Nhịp đọc | ~180-190 từ/phút | **~150-160** (chậm hơn, để animation "thở") |
+| Sản xuất | Dễ hơn (đồ họa tối giản) | Khó hơn (cần animation mượt kiểu Manim) |
+| Cảm giác | Tĩnh lặng, "thuần khiết", trí tuệ | Sống động, thân thiện, vẫn rất "toán" |
+
+→ **Kênh mới nên chọn 1 trường phái làm chủ đạo.** Có thể bắt đầu đơn sắc (dễ sản xuất) rồi mượn *tư duy* màu-theo-đối-tượng của 3B1B khi cần phân biệt nhiều thành phần.
+
+---
+
 ## B. HAI KHUÔN KỂ CHUYỆN (chọn theo loại chủ đề)
 
 ### Khuôn 1 — "XÂY DỰNG TUẦN TỰ" (như V1 Hình học)
@@ -30,6 +47,7 @@ Mở đầu cảm xúc → Vật liệu gốc → Ghép → Quan hệ → Quan h
 - Mỗi phần **đứng trên vai phần trước**.
 - Câu chuyển: *"Có X rồi, giờ xem khi..."*, *"Không chỉ X, còn..."*, *"Nếu có thêm Y thì sao?"*.
 - Có **nhãn chương góc trái** suốt mỗi phần.
+- **Biến thể "nhiều góc nhìn → hợp nhất" (V4 — 3B1B):** với khái niệm cốt lõi, trình bày 2-3 cách hiểu (vd physics/CS/math về "vector") rồi cho thấy chúng là một — tôn trọng nền tảng đa dạng của người xem thay vì áp đặt 1 định nghĩa. Có thể mở bằng **quote/triết lý** thay câu hỏi.
 
 ### Khuôn 2 — "TẠI SAO / PHẢN BIỆN" (như V2 Âm nhân âm)
 Dùng khi: giải thích/chứng minh MỘT điều tưởng hiển nhiên.
@@ -76,15 +94,20 @@ Khi viết mỗi câu, tra loại câu để biết dựng visual gì:
 
 ---
 
-## E. BẢNG SO SÁNH NHANH 2 VIDEO
+## E. BẢNG SO SÁNH NHANH CÁC VIDEO THAM CHIẾU
 
-| Tiêu chí | V1 Hình học | V2 Âm nhân âm |
-|---|---|---|
-| Mạch kể | Xây dựng tuần tự | Tại sao / phản biện |
-| Nền | Đen sạch | Đen + grain |
-| Trung tâm | Hình vẽ hình học | Công thức/chữ toán |
-| Nhãn chương góc trái | Có | Không |
-| Lịch sử | Bằng lời | Timeline + chân dung |
-| Ẩn dụ đời thực | Không (thuần trừu tượng) | Có (hộp nợ, trục số) |
-| Phần dài nhất | Song song + Euclid | Phản biện 3 cách |
-| Mục tiêu người xem | "Hiểu hệ thống" | "Hiểu vì sao + tư duy chứng minh" |
+| Tiêu chí | V1 Hình học | V2 Âm nhân âm | V4 Vectors (3B1B) |
+|---|---|---|---|
+| Ngôn ngữ | Tiếng Việt | Tiếng Việt | **Tiếng Anh** |
+| Mạch kể | Xây dựng tuần tự | Tại sao / phản biện | Xây dựng + **nhiều góc nhìn → hợp nhất** |
+| Nền | Đen sạch | Đen + grain | Đen + **grid xanh/trục trắng** |
+| Màu | Đơn sắc | Đơn sắc | **Màu gán theo đối tượng** |
+| Nhân vật | Không | Không | **Mascot Pi (persona)** |
+| Trung tâm | Hình vẽ hình học | Công thức/chữ toán | Mũi tên màu trên grid |
+| Nhãn chương góc trái | Có | Không | Tiêu đề serif giữa-trên |
+| Lịch sử | Bằng lời | Timeline + chân dung | (Quote Weyl mở đầu) |
+| Mở đầu (hook) | Câu hỏi cảm xúc | Phá vỡ hiển nhiên | **Quote triết lý** |
+| Nhịp đọc | ~185 từ/phút | ~185 | **~150-160 (chậm)** |
+| Mục tiêu người xem | "Hiểu hệ thống" | "Hiểu vì sao + tư duy chứng minh" | "Hiểu trực giác hình học" |
+
+> `03_randomness-shape` = kịch bản gốc tự viết (Khuôn 2), không có trong bảng vì chưa quay.
